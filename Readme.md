@@ -1,1 +1,0 @@
-Rafael Botelho Azure Terraform
